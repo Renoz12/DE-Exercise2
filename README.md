@@ -2,7 +2,7 @@ DE-Exercise2
 
 Part 2: DE Exercise 1.Load and transform data from CSV file to RDS
 
-![Ex1](https://user-images.githubusercontent.com/117813460/201072194-d1af7c33-14e7-456f-86dc-fadffe56a190.PNG)
+![Ex1-0](https://user-images.githubusercontent.com/117813460/201079486-8b5964e3-053b-4f16-a319-a467b70c8ccf.PNG)
 
 Data on Google big query : Customer
 
